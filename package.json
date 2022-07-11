@@ -1,0 +1,20 @@
+{
+  "name": "webpack-image-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvshv/webpack-image-conveter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvshv/webpack-image-conveter/issues"
+  },
+  "homepage": "https://github.com/lvshv/webpack-image-conveter#readme"
+}
